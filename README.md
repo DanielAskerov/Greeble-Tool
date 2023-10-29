@@ -2,7 +2,7 @@
 
 A simple Blender tool providing a non-destructive workflow for procedurally generating detailing/greebles on an object. The tool was developed to speed up the time-consuming portion of modeling sci-fi objects. Detailing can be exported as geometry, or baked to textures and exported within the tool.
 
-![GreebleScreenshot](https://github.com/DanielAskerov/Greeble-Tool/assets/140186597/7d9ac37a-9f1f-4423-8562-61ef2a90170e)
+![GreebleScreenshot](https://github.com/DanielAskerov/Greeble-Tool/assets/140186597/ca50e9e0-dd1a-4d47-a841-35cad1647909)
 
 This is an ongoing project; it began as a means of creating quick prototypes of space ships, but my aim is to make it more substantial and universally useful in the future. Some of the things I'm currently exploring include displacement map generation, an interface to create a pool of unique greeble objects, and a number of more useful parameters. 
 
